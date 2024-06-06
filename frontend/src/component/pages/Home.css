@@ -1,0 +1,14 @@
+.form-control{
+    border: 2px solid black;
+    height: 5vh;
+    width: 16vw;
+    display: flex;
+    
+}
+.ant-picker-input{
+    border:2px solid black;
+}
+.anticon{
+    color:black;
+    font-size: large;
+}

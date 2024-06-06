@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400&display=swap');
+
+
+.navbar {
+font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+  line-height: 26px;
+  width: 100vw;
+  text-transform: uppercase;
+  box-shadow: 0 8px 4px -6px gray;
+  --webkit-box-shadow: 0 8px 4px -6px gray;
+  border-bottom: 0.5px solid gray !important;
+}
+
+ .nav-link {
+  color:aliceblue !important;
+
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  color: lightgray !important;
+
+  /* Change text color on hover */
+} 
+.containerFromLoginAndRegsiter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+    }
+.form{
+padding: 20px;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+ }
+
+ /* form-group */
+ /* form-control */
+ .registerBtn{
+  width: 30vw;
+  margin: 10px;
+ }
+
+
+
+.bookNowBtn{
+    width: 150px !important;
+      background-color: black;
+      color: aliceblue;
+      border-radius: 10px;
+      float: right;
+}
+
+
+.small-img{
+  height:34vh;
+  width:25vw;
+}
+.room-h1{
+  font-size: 20px;
+}
+.boxSh{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  padding: 20px;
+}
+.form-control-login {
+  width: 30vw;
+  border-radius: 5px;
+  border-top: 1px solid gray;
+ }
+ .form-control-register {
+   width: 30vw;
+   border-radius: 5px;
+   border-top: 1px solid gray;
+ }
+    .loginBtn {
+      width: 15vw;
+      margin: 10px;
+      margin-left: 30%;
+    }
+
+.homeButtonSection{
+  float: right;
+}
+.containerOfBookingScreen{
+width: 80vw;
+margin-left: 10vw;
+}
+hr{
+  border-bottom: 1px solid rgb(51, 50, 50);
+}
+.dropdown-toggle{
+  margin-right: 2.5em ;
+  color: white;
+}
+.dropdown-toggle:hover{
+  color: rgb(228, 221, 210);
+  text-decoration: none;
+}
+
